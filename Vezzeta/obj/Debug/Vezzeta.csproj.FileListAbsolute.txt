@@ -1,0 +1,12 @@
+C:\Visual Studio\Software Engineering\Vezzeta\bin\Debug\Vezzeta.exe.config
+C:\Visual Studio\Software Engineering\Vezzeta\bin\Debug\Vezzeta.exe
+C:\Visual Studio\Software Engineering\Vezzeta\bin\Debug\Vezzeta.pdb
+C:\Visual Studio\Software Engineering\Vezzeta\bin\Debug\Oracle.DataAccess.dll
+C:\Visual Studio\Software Engineering\Vezzeta\obj\Debug\Vezzeta.csproj.AssemblyReference.cache
+C:\Visual Studio\Software Engineering\Vezzeta\obj\Debug\Vezzeta.Form1.resources
+C:\Visual Studio\Software Engineering\Vezzeta\obj\Debug\Vezzeta.Properties.Resources.resources
+C:\Visual Studio\Software Engineering\Vezzeta\obj\Debug\Vezzeta.csproj.GenerateResource.cache
+C:\Visual Studio\Software Engineering\Vezzeta\obj\Debug\Vezzeta.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Software Engineering\Vezzeta\obj\Debug\Vezzeta.csproj.CopyComplete
+C:\Visual Studio\Software Engineering\Vezzeta\obj\Debug\Vezzeta.exe
+C:\Visual Studio\Software Engineering\Vezzeta\obj\Debug\Vezzeta.pdb
